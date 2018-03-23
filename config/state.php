@@ -1,0 +1,1 @@
+<?php return array('state'=>1,'msg'=>'扫码成功');?>
